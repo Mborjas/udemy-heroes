@@ -7,6 +7,5 @@
 * Linterna Verde
 * Robin
 * Volcán Negro
-* Atom
-* Ice
-JAJAJAJAJA
+* Atom 1
+* Ice 2
